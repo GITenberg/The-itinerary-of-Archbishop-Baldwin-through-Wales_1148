@@ -1,5 +1,8 @@
 _repo: The-itinerary-of-Archbishop-Baldwin-through-Wales_1148
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cambrensis, Giraldus
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/536
     wikipedia: http://en.wikipedia.org/wiki/Giraldus_Cambrensis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1148#The-itinerary-of-Archbishop-Baldwin-through-Wales
 gutenberg_issued: '1997-12-01'
 gutenberg_type: Text
 identifiers:
